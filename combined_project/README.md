@@ -1,16 +1,17 @@
-# combined_project
+# Combined-Project
+Project Preview.
+---------------------------------------------------------------------
+:pushpin: Home:
+![Home page](https://github.com/aatushar/Combined-Project/blob/main/combined_project/first.PNG)
+# Location-Based-Services-and-Notifications
+![Home page](https://github.com/aatushar/Combined-Project/blob/main/combined_project/second.PNG)
 
-A new Flutter project.
 
-## Getting Started
+# Third-Party-API-Screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+:pushpin: Third party API Screen:
+![Home page](https://github.com/aatushar/Combined-Project/blob/main/combined_project/third.PNG)
+# Google map screen
+:pushpin: Google map screen
+![Home page](https://github.com/aatushar/Location-Based-Services-and-Notifications/blob/main/integrate_google_maps/Capture.PNG
+)
