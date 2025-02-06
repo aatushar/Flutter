@@ -1,0 +1,99 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 667" width="375" height="667" fill="none">
+  <rect width="375" height="667" fill="#f1faee"></rect>
+  <g opacity="100%">
+    <rect x="0" y="0" width="375" height="64" fill="#fff" filter="url(#filter_dshadow_4_2_2_0303031a)"></rect>
+    <rect x="0" y="63.04" width="375" height="0.96" fill="#d1d1d6"></rect>
+  </g>
+  <g opacity="100%" mask="url(#mask_6g6079re9q)">
+    <text x="87" y="40.5" font-family="Poppins" font-size="24" fill="#264653" letter-spacing="0" font-weight="700" font-style="normal">Filter</text>
+    <text x="87" y="72.5" font-family="Poppins" font-size="24" fill="#264653" letter-spacing="0" font-weight="700" font-style="normal">Members</text>
+    <defs>
+      <mask id="mask_6g6079re9q">
+        <rect x="87" y="16" width="185" height="32" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="16" y="103" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">Name</text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="16" y="116" width="327" height="38" fill="#f9f9f9" rx="12" stroke="#d1d1d6" stroke-width="0"></rect>
+    <text x="24" y="140" font-family="Poppins" font-size="14" fill="#94a3b8" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan></tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <text x="16" y="184" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">Location</text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="16" y="197" width="327" height="38" fill="#f9f9f9" rx="12" stroke="#d1d1d6" stroke-width="0"></rect>
+    <text x="24" y="221" font-family="Poppins" font-size="14" fill="#94a3b8" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan></tspan>
+    </text>
+  </g>
+  <g opacity="100%" mask="url(#mask_5e3rewn4cq)">
+    <text x="16" y="266" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">Categor</text>
+    <text x="16" y="286" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">y</text>
+    <defs>
+      <mask id="mask_5e3rewn4cq">
+        <rect x="16" y="251" width="66" height="20" fill="white"></rect>
+      </mask>
+    </defs>
+  </g>
+  <g opacity="100%">
+    <text x="40" y="294" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">Male</text>
+  </g>
+  <g opacity="100%">
+    <rect x="16" y="281" width="16" height="16" fill="#fff" rx="8" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="40" y="322" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">Female</text>
+  </g>
+  <g opacity="100%">
+    <rect x="16" y="309" width="16" height="16" fill="#fff" rx="8" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%">
+    <text x="40" y="350" font-family="Poppins" font-size="14" fill="#264653" letter-spacing="0" font-weight="normal" font-style="normal">Kid</text>
+  </g>
+  <g opacity="100%">
+    <rect x="16" y="337" width="16" height="16" fill="#fff" rx="8" filter="url(#filter_dshadow_0_0_0_00000014)"></rect>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="16" y="371" width="147" height="36" fill="#264653" stroke="#e5e7eb" stroke-width="0" rx="12"></rect>
+    <text x="69.5" y="394" font-family="Poppins" font-size="14" fill="#fff" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan>Apply</tspan>
+    </text>
+  </g>
+  <g opacity="100%">
+    <rect filter="url(#filter_dshadow_0_0_0_00000014)" x="195" y="371" width="147" height="36" fill="#264653" stroke="#e5e7eb" stroke-width="0" rx="12"></rect>
+    <text x="249.5" y="394" font-family="Poppins" font-size="14" fill="#fff" letter-spacing="0" font-weight="normal" font-style="normal">
+      <tspan>Reset</tspan>
+    </text>
+  </g>
+  <defs>
+    <filter id="filter_dshadow_4_2_2_0303031a" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="2" dy="2"></feOffset>
+      <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0 0.011764705882352941 0 0 0 0.1 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_4_2_2_0303031a"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_4_2_2_0303031a" result="shape"></feBlend>
+    </filter>
+    <filter id="filter_dshadow_0_0_0_00000014" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="bg-fix"></feFlood>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="alpha"></feColorMatrix>
+      <feOffset dx="0" dy="0"></feOffset>
+      <feGaussianBlur stdDeviation="0"></feGaussianBlur>
+      <feComposite in2="alpha" operator="out"></feComposite>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"></feColorMatrix>
+      <feBlend mode="normal" in2="bg-fix" result="bg-fix-filter_dshadow_0_0_0_00000014"></feBlend>
+      <feBlend in="SourceGraphic" in2="bg-fix-filter_dshadow_0_0_0_00000014" result="shape"></feBlend>
+    </filter>
+    <style id="google">@import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap);
+</style>
+    <style id="brand"></style>
+  </defs>
+</svg>
