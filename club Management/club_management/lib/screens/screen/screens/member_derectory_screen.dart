@@ -66,10 +66,10 @@ class SearchBar extends StatelessWidget {
 
 class MembersList extends StatelessWidget {
   final List<Map<String, String>> members = [
-    {"name": "New", "image": "assets/7.png"}, // Placeholder
-    {"name": "JaneSmit", "image": "assets/evn1.png"},
-    {"name": "AlexJohn", "image": "assets/evn2.png"},
-    {"name": "CoffeeLo", "image": "assets/evn1.png"},
+    {"name": "New", "image": "assets/liton.jpg"}, // Placeholder
+    {"name": "Mehedi Hasan", "image": "assets/mehedi.jpg"},
+    {"name": "Sifat Khan", "image": "assets/sifat_khan.jpg"},
+    {"name": "Abdul Alim Tushar", "image": "assets/tushar_linkedin.jpg"},
   ];
 
   @override
@@ -141,23 +141,23 @@ class FiltersSection extends StatelessWidget {
 class MessagesList extends StatelessWidget {
   final List<Map<String, String>> messages = [
     {
-      "name": "JaneSmith",
+      "name": "Mehedi Hasan",
       "message": "Contacted you. Respond now!",
       "time": "Just",
-      "profile": "assets/evn1.png",
+      "profile": "assets/mehedi.jpg",
       "highlight": "bold"
     },
     {
-      "name": "Musharrat Hossain",
+      "name": "Sifat Khan",
       "message": "You: I'm concerned about the situation, but",
       "time": "12 minutes",
-      "profile": "assets/evn2.png"
+      "profile": "assets/sifat_khan.jpg"
     },
     {
-      "name": "John_Doe",
+      "name": "Md ABdul Alim Tushar",
       "message": "Hello, can you please respond? What's the",
       "time": "1 day ago",
-      "profile": "assets/evn1.png"
+      "profile": "assets/tushar_linkedin.jpg"
     },
   ];
 

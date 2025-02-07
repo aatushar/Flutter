@@ -52,14 +52,14 @@ class EventsScreen extends StatelessWidget {
                   EventCard(
                     imageUrl: 'assets/evn1.png', // Replace with real image URL
                     title: 'Community Festival',
-                    date: 'May 15, 2023',
+                    date: 'May 15, 2025',
                     location: 'Central Park',
                   ),
                   EventCard(
-                    imageUrl: 'assets/evn2.png', // Replace with real image URL
+                    imageUrl: 'assets/Joy-Bangla-Concert-2023.jpg', // Replace with real image URL
                     title: 'Live Concert',
-                    date: 'June 20, 2023',
-                    location: 'City Arena',
+                    date: 'February 21 ,2025',
+                    location: 'Army Stadium',
                   ),
                 ],
               ),

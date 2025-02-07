@@ -12,10 +12,11 @@ class MemberSearchScreen extends StatefulWidget {
 class _MemberSearchScreenState extends State<MemberSearchScreen> {
   TextEditingController searchController = TextEditingController();
   List<Map<String, String>> allMembers = [
-    {"name": "Sabbir Ahmed", "image": "assets/evn1.png"},
     {"name": "Syed Mostafa Jamal", "image": "assets/md.jpg"},
-    {"name": "Riyad Chowdhury", "image": "assets/evn2.png"},
-    {"name": "Emily", "image": "assets/user4.jpg"},
+    {"name": "Liton Mahamud", "image": "assets/liton.jpg"},
+    {"name": "Tushar", "image": "assets/tushar_linkedin.jpg"},
+    {"name": "Mehedi Hasan", "image": "assets/mehedi.jpg"},
+
   ];
   List<Map<String, String>> filteredMembers = [];
 
