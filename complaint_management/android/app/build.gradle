@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.webview_flutter_android"
+    namespace = "com.example.complaint_management"
     compileSdkVersion 34
     ndkVersion = "25.1.8937393"
 
